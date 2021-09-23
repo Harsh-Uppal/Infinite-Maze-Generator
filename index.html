@@ -1,1 +1,26 @@
-<html><head><title>Infinite Maze Generator</title></head><body><a href="./Infinite Maze Generator.rar" download>Download Infinite Maze Generator</a></body></html>
+<html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="./style.css" />
+    <script src="https://www.gstatic.com/firebasejs/8.6.2/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.6.2/firebase-database.js"></script>
+    <script src="database.js"></script>
+    <script src="script.js"></script>
+</head>
+
+<body>
+    <div class="Header">Infinite Maze Generator</div>
+    <form id="MainForm" action="http://127.0.0.1:1111/action" method="POST">
+        <input hidden id="sendData" type="text" name="downloadTime" value="null" />
+    </form>
+    <a href="./Infinite Maze Generator.rar" download>
+        <button class="DownloadBtn Glow" onclick="MainBtnClicked()">Download</button>
+    </a>
+</body>
+
+</html>

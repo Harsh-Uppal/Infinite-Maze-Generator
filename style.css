@@ -1,0 +1,56 @@
+body{
+    background-color: #232323;
+    overflow:hidden;
+}
+
+.Header{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    color:#d0d0d0;
+    margin-top: 7.5%;
+    font-size: 300%;
+    font-family: 'Power Green';
+    transition-duration: .4s;
+    user-select: none;
+}
+
+.Header:hover{
+    color:rgb(255, 255, 255);
+}
+
+.DownloadBtn{
+    background-color: #0375ad;
+    border: none;
+    width:30%;
+    height:20%;
+    text-align: center;
+    display: inline-block;
+    border-radius: 1000px;
+    font-size: 300%;
+    font-family: 'power green';
+    font-weight: bold;
+    color:goldenrod;
+    margin:10% 15% 35% 35%;
+    transition-duration: .5s;
+    font-style: normal;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:visited{
+    text-decoration: none;
+}    
+
+.Glow:active{
+    background-color: #40f0f0;
+    color:#101010;
+}
+
+.Glow:hover{
+    background-color: rgb(3, 231, 231);
+    box-shadow: 0 10px 12px 0 rgba(250,250,250,.2), 0 4px 10px 25px rgba(150,150,150,0.15);
+    color:#303030;
+}
