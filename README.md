@@ -2,7 +2,7 @@
 This project is made with Unity<br>
 This maze generator can generate Infinite maze as per their seed (If you have infinitely powerful computer)<br>
 Download it from this website : https://harsh-uppal.github.io/Infinite-Maze-Generator/
-#How to run
+# How to run
 Step 1: Download the "Infinite Maze Generator.rar" file<br>
 Step 2: Decompress it using a program like WinRar, WInZip etc.<br>
 Step 3: Run the "Infinite Maze Generator.exe" file<br>
