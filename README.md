@@ -1,12 +1,13 @@
 # Infinite-Maze-Generator
 This project is made with Unity<br>
 This maze generator can generate Infinite maze as per their seed (If you have infinitely powerful computer)<br>
+Download it from it's website : 
 #How to run
 Step 1: Download the "Infinite Maze Generator.rar" file<br>
 Step 2: Decompress it using a program like WinRar, WInZip etc.<br>
 Step 3: Run the "Infinite Maze Generator.exe" file<br>
 # How to play
-There are 4 inputs<br>
+<r>There are 4 inputs<br>
 1)Seed : You can enter any text using which it will generate the maze, every seed has it's own specific maze.<br>
 (For Fun) Enter your name into the seed input feild and click the Generate Maze button. It will generate the specific maze corresponding to your name<br>
 2)Grid size : It specifies ow many columns and rows the maze will have.<br>
@@ -18,7 +19,7 @@ Generate Maze Button : Generates a new maze as per the inputs<br>
 
 Press left and right arrow buttons to rotate the maze<br>
 # Credits
-Fully made by Harsh Uppal<br>
+<br>Fully made by Harsh Uppal<br>
 # Copyright © Harsh
-You cannot make any money with this program<br>
+<br>You cannot make any money with this program<br>
 Share it using the github link only<br>
