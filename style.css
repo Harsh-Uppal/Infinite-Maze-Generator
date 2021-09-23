@@ -54,17 +54,20 @@ a:visited{
     color:#303030;
 }
 
+.HiddenTextContainer{
+    margin-top: 10%;
+}
+
 .HiddenText{
     color:rgba(0, 0, 0, 0);
     transition: .3s;
     margin-left: 85%;
-    margin-top: 10%;
     font-size: 150%;
     user-select: none;
     text-decoration: none;
 }
 
 .HiddenText:hover{
-    color:rgba(255,255,255, 1);
+    color:rgba(255,255,255);
     font-size: 200%;
 }
